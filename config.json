@@ -1,0 +1,1 @@
+{"width": 800, "height": 600, "fps": 58, "attraction_strength": 0.05, "repulsion_threshold": 100.0, "repulsion_strength": 0.1, "fade_duration": 3, "num_particles": 200, "particle_size": 10, "pulse_amplitude": 2.0, "pulse_speed": 0.1}
